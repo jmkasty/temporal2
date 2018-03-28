@@ -1,5 +1,9 @@
 hola
 adios
+<<<<<<< HEAD
 
 [modificada]
 para otro commit
+=======
+otro adios para rama
+>>>>>>> parent of 4ce1a7a... otra linea de coomit
